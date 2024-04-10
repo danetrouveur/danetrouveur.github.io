@@ -2,34 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dane Jeon</title>
-    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+    <description>Hello everyone! Welcome to my website! I upload both about my daily and academic life. 
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 11 Apr 2024 00:33:34 +0900</pubDate>
-    <lastBuildDate>Thu, 11 Apr 2024 00:33:34 +0900</lastBuildDate>
+    <pubDate>Thu, 11 Apr 2024 01:24:53 +0900</pubDate>
+    <lastBuildDate>Thu, 11 Apr 2024 01:24:53 +0900</lastBuildDate>
     <generator>Jekyll v4.3.3</generator>
     
       <item>
-        <title>Second Post</title>
-        <description>&lt;p&gt;This is the second post of my personal website&lt;/p&gt;
+        <title>Welcome to my Website!</title>
+        <description>&lt;p&gt;Hi friends and family! This is the first article in my website. I’m still working on the whole thing, so please don’t expect alot for the first few months. While the whole thing is working out, you should really check out my &lt;strong&gt;about&lt;/strong&gt; page. It has a short description of who I am.&lt;/p&gt;
+
+&lt;p&gt;I’m also planning to write a lot of academic posts, for archiving and etcetera. My most recent interest lies in a topic called &lt;strong&gt;differential forms&lt;/strong&gt;. I mean, what’s life without a daily dose of new maths? So here’s a cool equation for y’all.&lt;/p&gt;
+
+&lt;p style=&quot;text-align:center;font-size:150%;&quot;&gt;
+$$\int_{M}d\omega=\int_{\partial M}\omega$$
+&lt;/p&gt;
+
+&lt;p&gt;Just so you know, it’s called the &lt;strong&gt;generalised Stokes’ theorem&lt;/strong&gt;. One of my favorites at the moment!&lt;/p&gt;
 </description>
         <pubDate>Thu, 11 Apr 2024 00:00:00 +0900</pubDate>
-        <link>http://localhost:4000/daily/2024/04/11/second-post.html</link>
-        <guid isPermaLink="true">http://localhost:4000/daily/2024/04/11/second-post.html</guid>
-        
-        
-        <category>Daily</category>
-        
-      </item>
-    
-      <item>
-        <title>Welcome to my Website!</title>
-        <description>&lt;p&gt;Hi guys! This is the first article in my website. I’m still working on the whole thing, so please don’t expect alot for the first few months.&lt;/p&gt;
-</description>
-        <pubDate>Wed, 10 Apr 2024 22:06:26 +0900</pubDate>
-        <link>http://localhost:4000/journal/2024/04/10/welcome-to-my-website.html</link>
-        <guid isPermaLink="true">http://localhost:4000/journal/2024/04/10/welcome-to-my-website.html</guid>
+        <link>http://localhost:4000/journal/2024/04/11/welcome-to-my-website.html</link>
+        <guid isPermaLink="true">http://localhost:4000/journal/2024/04/11/welcome-to-my-website.html</guid>
         
         
         <category>Journal</category>
