@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  Welcome to my Website!
-date: 2024-04-10 21:06:26 +0800
-categories: Daily
+title: Welcome to my Website!
+category: Journal 
+description: 
 ---
 
 Hi friends and family! This is the first article in my website. I'm still working on the whole thing, so please don't expect alot for the first few months. While the whole thing is working out, you should really check out my **about** page. It has a short description of who I am.

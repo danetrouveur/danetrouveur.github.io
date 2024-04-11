@@ -6,8 +6,8 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 11 Apr 2024 01:24:53 +0900</pubDate>
-    <lastBuildDate>Thu, 11 Apr 2024 01:24:53 +0900</lastBuildDate>
+    <pubDate>Thu, 11 Apr 2024 09:11:17 +0900</pubDate>
+    <lastBuildDate>Thu, 11 Apr 2024 09:11:17 +0900</lastBuildDate>
     <generator>Jekyll v4.3.3</generator>
     
       <item>
@@ -22,9 +22,9 @@ $$\int_{M}d\omega=\int_{\partial M}\omega$$
 
 &lt;p&gt;Just so you know, it’s called the &lt;strong&gt;generalised Stokes’ theorem&lt;/strong&gt;. One of my favorites at the moment!&lt;/p&gt;
 </description>
-        <pubDate>Thu, 11 Apr 2024 00:00:00 +0900</pubDate>
-        <link>http://localhost:4000/journal/2024/04/11/welcome-to-my-website.html</link>
-        <guid isPermaLink="true">http://localhost:4000/journal/2024/04/11/welcome-to-my-website.html</guid>
+        <pubDate>Wed, 10 Apr 2024 00:00:00 +0900</pubDate>
+        <link>http://localhost:4000/journal/2024/04/10/welcome-to-my-website.html</link>
+        <guid isPermaLink="true">http://localhost:4000/journal/2024/04/10/welcome-to-my-website.html</guid>
         
         
         <category>Journal</category>
