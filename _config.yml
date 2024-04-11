@@ -19,6 +19,8 @@ github_username:  danetrouveur
 markdown: kramdown
 kramdown:
   input: GFM
+plugins:
+  - jekyll-seo-tag
 
 # Third-party services
 # just leave someone empty to disable it

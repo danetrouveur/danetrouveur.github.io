@@ -19,8 +19,8 @@ title: Home
           {{ post.description}}
           {% else %}
           {{ post.excerpt }}
-          {% endif %} 
-          <a class="read-more" href="{{ post.url | prepend: site.baseurl }}"> »  </a>
+          <!-- {% endif %} 
+          <a class="read-more" href="{{ post.url | prepend: site.baseurl }}"> »  </a> -->
         </p> 
       </div>
       <footer class="post_meta">
@@ -47,7 +47,7 @@ title: Home
         {% endif %}
 
         <p class="readmore">
-          <a href=""><data data-icon="ei-arrow-right"></data>Read this article  </a>
+          <a href="{{ post.url | prepend: site.baseurl }}"><data data-icon="ei-arrow-right"></data> Read this article  </a>
         </p>
 
       </footer>
