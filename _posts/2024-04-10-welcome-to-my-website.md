@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Welcome to my Website!
-category: Journal 
+category: Me 
 description: 
 ---
 
