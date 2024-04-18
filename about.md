@@ -9,4 +9,4 @@ Hi! I'm an undergraduate student currently studying in **Korea** 🇰🇷 with e
 ![Me_With_My_Friends.jpeg](/assets/img/Me_With_My_Friends.jpeg)
 
 <p style="text-align:center">
-<i>This is me with friends in <strong>Spain</strong>!
+<i>This is me with friends in <strong>Spain</strong> 🇪🇸!
