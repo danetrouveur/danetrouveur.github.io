@@ -953,6 +953,26 @@ blockquote {
   font-size: 1.3rem;
 }
 
+/* mobile (you can change 540px to whatever breakpoint you like) */
+@media (max-width: 540px) {
+  .desktop {
+    display: none;
+  }
+  .mobile {
+    display: block;
+    border: 1px solid red;
+  }
+}
+/* desktop */
+@media (min-width: 541px) {
+  .desktop {
+    display: block;
+    border: 1px solid cyan;
+  }
+  .mobile {
+    display: none;
+  }
+}
 /* layout */
 html, .container {
   position: relative;
