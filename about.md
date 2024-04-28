@@ -12,11 +12,18 @@ Hi! I'm an undergraduate student currently studying in **Korea** 🇰🇷 with e
 <i>This is me with friends in <strong>Spain</strong> 🇪🇸!</i>
 </p>
 
-For a more detailed academic background and contact information, kindly refer to my resume below!
+For a more detailed academic background and contact information, kindly refer to my resume!
 
+<p style="margin-top:0.2cm;"></p>
 <object data="mypdf.pdf" type="application/pdf" frameborder="0" width="100%" height="600px">
-    <embed src="https://drive.google.com/file/d/1JA81YrcVtXOHSrP2fgtZ-8ByLK1f1t51/preview?usp=sharing" width="100%" height="600px"> 
+    <embed src="https://drive.google.com/file/d/1JA81YrcVtXOHSrP2fgtZ-8ByLK1f1t51/preview?usp=sharing" width="100%" height="600px">
 </object>
+<p style="margin-top:0.3cm;"></p>
 
-Thanks for visiting my website!
+The <a href="/notes.html">**notes**</a> page has a few notes and reports that I've taken both for classes and for personal aspirations. 
+I am a strong believer in science being a collaborative endeavor; this website can be seen as me standing behind my words. 
+The documents in gray are ones I deem insignificant, whereas the documents in black are ones in my current scope of interest or ones that I think I've made a worthwhile contribution. I got the idea of uploading the notes from the open-source works of <a href="https://dec41.user.srcf.net/"><strong>Dexter Chua</strong></a>, <a href="https://sites.ualberta.ca/~vbouchar/"><strong>Vincent Bouchard</strong></a>, and <a href="terrytao.wordpress.com"><strong>Terrence Tao</strong></a>. 
+I highly reccomend taking a look at them.
+
+Thanks for visiting!
 
