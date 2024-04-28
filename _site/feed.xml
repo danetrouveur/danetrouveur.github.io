@@ -6,13 +6,13 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 28 Apr 2024 14:19:20 +0900</pubDate>
-    <lastBuildDate>Sun, 28 Apr 2024 14:19:20 +0900</lastBuildDate>
+    <pubDate>Sun, 28 Apr 2024 16:10:39 +0900</pubDate>
+    <lastBuildDate>Sun, 28 Apr 2024 16:10:39 +0900</lastBuildDate>
     <generator>Jekyll v4.3.3</generator>
     
       <item>
         <title>Notes on Differential Forms</title>
-        <description>&lt;p&gt;Differential forms, equations and their relationships are pivotal in the construction of the theory of electromagnetism. These notes are on my recent strides in these subjects, tightly relating one to another in a way I thought was appropriate. Hope it helps anyone who comes across it!&lt;/p&gt;
+        <description>&lt;p&gt;Differential forms, equations and their relationships are pivotal in the construction of the theory of electromagnetism. These notes are on my recent strides in these subjects, tightly relating one to another in a way I thought was appropriate. Hope it helps anyone who comes across it&lt;/p&gt;
 
 &lt;p&gt;These notes were for learning the basics of &lt;strong&gt;differential forms&lt;/strong&gt;!&lt;/p&gt;
 
@@ -20,7 +20,7 @@
     &lt;embed src=&quot;https://drive.google.com/file/d/1jusqdIjoVnIS0_3TrR0w2SsJUkX6RTmN/preview?usp=drive_link&quot; width=&quot;100%&quot; height=&quot;600px&quot; /&gt; 
 &lt;/object&gt;
 
-&lt;p&gt;Download it &lt;a href=&quot;/Mathematics__Differential_Forms.pdf&quot;&gt;&lt;strong&gt;here&lt;/strong&gt;&lt;/a&gt;!&lt;/p&gt;
+&lt;p&gt;Download it &lt;a href=&quot;/assets/resources/Mathematics__Differential_Forms.pdf&quot;&gt;&lt;strong&gt;here&lt;/strong&gt;&lt;/a&gt;!&lt;/p&gt;
 
 &lt;p&gt;These notes were for the midterms of &lt;strong&gt;electromagnetism 1&lt;/strong&gt; (PHY2009-01)!&lt;/p&gt;
 
@@ -28,16 +28,16 @@
     &lt;embed src=&quot;https://drive.google.com/file/d/1kgo-0bY71gVfCH4aZAid5NJIP8PCQX8m/preview?usp=drive_link&quot; width=&quot;100%&quot; height=&quot;600px&quot; /&gt; 
 &lt;/object&gt;
 
-&lt;p&gt;Download it &lt;a href=&quot;/Physics__Differential_Equations_in_Electromagnetism.pdf&quot;&gt;&lt;strong&gt;here&lt;/strong&gt;&lt;/a&gt;!&lt;/p&gt;
+&lt;p&gt;Download it &lt;a href=&quot;/assets/resources/Physics__Differential_Equations_in_Electromagnetism.pdf&quot;&gt;&lt;strong&gt;here&lt;/strong&gt;&lt;/a&gt;!&lt;/p&gt;
 
 &lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/p&gt;
 </description>
         <pubDate>Fri, 26 Apr 2024 00:00:00 +0900</pubDate>
-        <link>http://localhost:4000/academia/2024/04/26/notes-on-differential-forms.html</link>
-        <guid isPermaLink="true">http://localhost:4000/academia/2024/04/26/notes-on-differential-forms.html</guid>
+        <link>http://localhost:4000/academic%20life/2024/04/26/notes-on-differential-forms.html</link>
+        <guid isPermaLink="true">http://localhost:4000/academic%20life/2024/04/26/notes-on-differential-forms.html</guid>
         
         
-        <category>Academia</category>
+        <category>Academic Life</category>
         
       </item>
     
@@ -54,11 +54,11 @@ $$\int_{M}d\omega=\int_{\partial M}\omega$$
 &lt;p&gt;Just so you know, it’s called the &lt;strong&gt;generalised Stokes’ theorem&lt;/strong&gt;. One of my favorites at the moment!&lt;/p&gt;
 </description>
         <pubDate>Wed, 10 Apr 2024 00:00:00 +0900</pubDate>
-        <link>http://localhost:4000/me/2024/04/10/welcome-to-my-website.html</link>
-        <guid isPermaLink="true">http://localhost:4000/me/2024/04/10/welcome-to-my-website.html</guid>
+        <link>http://localhost:4000/personal%20life/2024/04/10/welcome-to-my-website.html</link>
+        <guid isPermaLink="true">http://localhost:4000/personal%20life/2024/04/10/welcome-to-my-website.html</guid>
         
         
-        <category>Me</category>
+        <category>Personal Life</category>
         
       </item>
     

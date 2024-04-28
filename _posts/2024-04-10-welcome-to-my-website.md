@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Welcome to my Website!
-category: Me 
+category: Personal Life
 description: 
 ---
 
