@@ -9,4 +9,14 @@ Hi! I'm an undergraduate student currently studying in **Korea** 🇰🇷 with e
 ![Me_With_My_Friends.jpeg](/assets/img/Me_With_My_Friends.jpeg)
 
 <p style="text-align:center">
-<i>This is me with friends in <strong>Spain</strong> 🇪🇸!
+<i>This is me with friends in <strong>Spain</strong> 🇪🇸!</i>
+</p>
+
+For a more detailed academic background and contact information, kindly refer to my resume below!
+
+<object data="mypdf.pdf" type="application/pdf" frameborder="0" width="100%" height="600px">
+    <embed src="https://drive.google.com/file/d/1JA81YrcVtXOHSrP2fgtZ-8ByLK1f1t51/preview?usp=sharing" width="100%" height="600px"> 
+</object>
+
+Thanks for visiting my website!
+
