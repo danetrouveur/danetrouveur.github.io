@@ -6,8 +6,8 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 28 Apr 2024 14:01:19 +0900</pubDate>
-    <lastBuildDate>Sun, 28 Apr 2024 14:01:19 +0900</lastBuildDate>
+    <pubDate>Sun, 28 Apr 2024 14:05:59 +0900</pubDate>
+    <lastBuildDate>Sun, 28 Apr 2024 14:05:59 +0900</lastBuildDate>
     <generator>Jekyll v4.3.3</generator>
     
       <item>
@@ -16,7 +16,7 @@
 
 &lt;p&gt;These notes were for learning the basics of &lt;strong&gt;differential forms&lt;/strong&gt;!&lt;/p&gt;
 
-&lt;object data=&quot;/Mathematics__Differential_Forms.pdf&quot; type=&quot;application/pdf&quot; width=&quot;750px&quot; height=&quot;750px&quot;&gt;
+&lt;object data=&quot;/Mathematics__Differential_Forms.pdf&quot; type=&quot;application/pdf&quot; width=&quot;100%&quot; height=&quot;750px&quot;&gt;
 &lt;/object&gt;
 
 &lt;!-- &lt;embed src=&quot;https://drive.google.com/file/d/1jusqdIjoVnIS0_3TrR0w2SsJUkX6RTmN/view?usp=drive_link&quot; width=&quot;100%&quot; height=&quot;700px&quot; 
@@ -29,7 +29,7 @@
 
 &lt;p&gt;These notes were for the midterms of &lt;strong&gt;electromagnetism 1&lt;/strong&gt; (PHY2009-01)!&lt;/p&gt;
 
-&lt;object data=&quot;/Physics__Differential_Equations_in_Electromagnetism.pdf&quot; type=&quot;application/pdf&quot; width=&quot;750px&quot; height=&quot;750px&quot;&gt;
+&lt;object data=&quot;/Physics__Differential_Equations_in_Electromagnetism.pdf&quot; type=&quot;application/pdf&quot; width=&quot;100%&quot; height=&quot;750px&quot;&gt;
 &lt;/object&gt;
 
 &lt;!-- &lt;embed src=&quot;https://drive.google.com/file/d/1kgo-0bY71gVfCH4aZAid5NJIP8PCQX8m/view?usp=drive_link&quot; width=&quot;100%&quot; height=&quot;700px&quot; 
@@ -38,7 +38,7 @@
 &lt;p&gt;&lt;!-- &lt;embed src=&quot;https://drive.google.com/file/d/1kgo-0bY71gVfCH4aZAid5NJIP8PCQX8m/view?usp=drive_link&quot; width=&quot;100%&quot; height=&quot;700px&quot; 
  type=&quot;application/pdf&quot;&gt; --&gt;&lt;/p&gt;
 
-&lt;p&gt;Download it &lt;a href=&quot;&amp;quot;/Physics__Differential_Equations_in_Electromagnetism.pdf&quot;&gt;&lt;strong&gt;here&lt;/strong&gt;&lt;/a&gt;!&lt;/p&gt;
+&lt;p&gt;Download it &lt;a href=&quot;/Physics__Differential_Equations_in_Electromagnetism.pdf&quot;&gt;&lt;strong&gt;here&lt;/strong&gt;&lt;/a&gt;!&lt;/p&gt;
 
 &lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/p&gt;
 </description>
