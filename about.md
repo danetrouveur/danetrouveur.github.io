@@ -25,5 +25,5 @@ I am a strong believer in science being a collaborative endeavor; this website c
 The documents in gray are ones I deem insignificant, whereas the documents in black are ones in my current scope of interest or ones that I think I've made a worthwhile contribution. I got the idea of uploading the notes from the open-source works of <a href="https://dec41.user.srcf.net/"><strong>Dexter Chua</strong></a>, <a href="https://sites.ualberta.ca/~vbouchar/"><strong>Vincent Bouchard</strong></a>, and <a href="terrytao.wordpress.com"><strong>Terrence Tao</strong></a>. 
 I highly reccomend taking a look at them.
 
-Thanks for visiting!
+*Thanks for visiting!*
 

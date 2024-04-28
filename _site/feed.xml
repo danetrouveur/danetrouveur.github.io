@@ -6,13 +6,15 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 28 Apr 2024 17:18:18 +0900</pubDate>
-    <lastBuildDate>Sun, 28 Apr 2024 17:18:18 +0900</lastBuildDate>
+    <pubDate>Sun, 28 Apr 2024 18:13:11 +0900</pubDate>
+    <lastBuildDate>Sun, 28 Apr 2024 18:13:11 +0900</lastBuildDate>
     <generator>Jekyll v4.3.3</generator>
     
       <item>
-        <title>Notes on Differential Forms</title>
-        <description>&lt;p&gt;Differential forms, equations and their relationships are pivotal in the construction of the theory of electromagnetism. These notes are on my recent strides in these subjects, tightly relating one to another in a way I thought was appropriate. Hope it helps anyone who comes across it&lt;/p&gt;
+        <title>Differential Forms, Equations, and Electromagnetism</title>
+        <description>&lt;p&gt;&lt;strong&gt;Differential forms&lt;/strong&gt;, &lt;strong&gt;differential equations&lt;/strong&gt;, and their relationship are pivotal in the construction of the theory of &lt;strong&gt;electromagnetism&lt;/strong&gt;. Recently, I’ve been very intrigued by this exact thing, and tried tying everything together in the context of electrostatics.&lt;/p&gt;
+
+&lt;p&gt;These notes are on my recent strides in these subjects, also available on &lt;a href=&quot;/notes.html&quot;&gt;&lt;strong&gt;notes&lt;/strong&gt;&lt;/a&gt;. I’m particular proud of the second document, where I tightly related these topics in a way I thought was appropriate. Hope it helps anyone who comes across it!&lt;/p&gt;
 
 &lt;p&gt;These notes were for learning the basics of &lt;strong&gt;differential forms&lt;/strong&gt;!&lt;/p&gt;
 
@@ -20,7 +22,7 @@
     &lt;embed src=&quot;https://drive.google.com/file/d/1jusqdIjoVnIS0_3TrR0w2SsJUkX6RTmN/preview?usp=drive_link&quot; width=&quot;100%&quot; height=&quot;600px&quot; /&gt; 
 &lt;/object&gt;
 
-&lt;p&gt;Download it &lt;a href=&quot;/assets/resources/Mathematics__Differential_Forms.pdf&quot;&gt;&lt;strong&gt;here&lt;/strong&gt;&lt;/a&gt;!&lt;/p&gt;
+&lt;p&gt;Download it &lt;a href=&quot;/assets/resources/Mathematics__Differential_Forms.pdf&quot;&gt;&lt;strong&gt;here&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;These notes were for the midterms of &lt;strong&gt;electromagnetism 1&lt;/strong&gt; (PHY2009-01)!&lt;/p&gt;
 
@@ -28,9 +30,12 @@
     &lt;embed src=&quot;https://drive.google.com/file/d/1kgo-0bY71gVfCH4aZAid5NJIP8PCQX8m/preview?usp=drive_link&quot; width=&quot;100%&quot; height=&quot;600px&quot; /&gt; 
 &lt;/object&gt;
 
-&lt;p&gt;Download it &lt;a href=&quot;/assets/resources/Physics__Differential_Equations_in_Electromagnetism.pdf&quot;&gt;&lt;strong&gt;here&lt;/strong&gt;&lt;/a&gt;!&lt;/p&gt;
+&lt;p&gt;Download it &lt;a href=&quot;/assets/resources/Physics__Differential_Equations_in_Electromagnetism.pdf&quot;&gt;&lt;strong&gt;here&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;I record here a few note I’d like to make. Throughout the journey, I was able to realise the importance of the field of &lt;strong&gt;real analysis&lt;/strong&gt; with it providing a vigorous foundation for integration in higher dimensions and on manifolds. Albeit that I’ve understood only a small portion of the whole, I was also able to sense that I wanted to further investigate what it meant to integrate over singularities like those provided by point charges. I suspect that it has to do with &lt;strong&gt;differential topology&lt;/strong&gt; and &lt;strong&gt;De Rham cohomology&lt;/strong&gt; in particular. &lt;strong&gt;Lie derivatives&lt;/strong&gt; also seemed to often pop-up everywhere, and I also see them worth further investigation.&lt;/p&gt;
+
+&lt;p&gt;I’d like to mention that upon studying electrostatics, I was again suprised by the power of abstraction and generalisation. There was a huge chunk of detail in veil when electrostatics was explained by Griffiths’ book on Electrodyanamics. Frankly, I found the book, along with the book by Jackson, extremely chaotic and baffling in its way of explaining things (I’d go a whole day talking about it). I’m certain that I would’ve found the whole subject impossible to tackle if not for the separate studying. In this sense, I want to take this opportunity to emphasize to others and my future self the following: &lt;em&gt;when things seem hard and difficult, it is often about where you are looking that is the problem, rather than how well you are capable of seeing it&lt;/em&gt;.&lt;/p&gt;
+
 </description>
         <pubDate>Fri, 26 Apr 2024 00:00:00 +0900</pubDate>
         <link>http://localhost:4000/academic%20life/2024/04/26/notes-on-differential-forms.html</link>
@@ -43,7 +48,7 @@
     
       <item>
         <title>Welcome to my Website!</title>
-        <description>&lt;p&gt;Hi friends and family! This is the first article in my website. I’m still working on the whole thing, so please don’t expect alot for the first few months. While the whole thing is working out, you should really check out my &lt;strong&gt;about&lt;/strong&gt; page. It has a short description of who I am.&lt;/p&gt;
+        <description>&lt;p&gt;Hi friends and family! This is the first article in my website. I’m still working on the whole thing, so please don’t expect alot for the first few months. While the whole thing is working out, you should really check out my &lt;a href=&quot;/about.md&quot;&gt;&lt;strong&gt;about&lt;/strong&gt;&lt;/a&gt; page. It has a short description of who I am.&lt;/p&gt;
 
 &lt;p&gt;I’m also planning to write a lot of academic posts, for archiving and etcetera. My most recent interest lies in a topic called &lt;strong&gt;differential forms&lt;/strong&gt;. I mean, what’s life without a daily dose of new maths? So here’s a cool equation for y’all.&lt;/p&gt;
 
