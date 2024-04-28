@@ -10,7 +10,7 @@ Differential forms, equations and their relationships are pivotal in the constru
 These notes were for learning the basics of **differential forms**!
 
 
-<object data="mypdf.pdf" type="application/pdf" frameborder="0" width="100%" height="600px" style="padding: 20px;">
+<object data="mypdf.pdf" type="application/pdf" frameborder="0" width="100%" height="600px">
     <embed src="https://drive.google.com/file/d/1jusqdIjoVnIS0_3TrR0w2SsJUkX6RTmN/preview?usp=drive_link" width="100%" height="600px"/> 
 </object>
 
@@ -18,7 +18,7 @@ Download it [**here**](/Mathematics__Differential_Forms.pdf)!
 
 These notes were for the midterms of **electromagnetism 1** (PHY2009-01)! 
 
-<object data="mypdf.pdf" type="application/pdf" frameborder="0" width="100%" height="600px" style="padding: 20px;">
+<object data="mypdf.pdf" type="application/pdf" frameborder="0" width="100%" height="600px">
     <embed src="https://drive.google.com/file/d/1jusqdIjoVnIS0_3TrR0w2SsJUkX6RTmN/preview?usp=drive_link" width="100%" height="600px"/> 
 </object>
 
