@@ -661,6 +661,7 @@ p {
 a {
   color: #222;
   text-decoration: none;
+  background-color: transparent;
   -webkit-transition: color 0.4s;
   transition: color 0.4s;
 }
@@ -1127,16 +1128,6 @@ p.readmore {
 .post_meta .author_meta img {
   height: 24px;
   width: 24px;
-}
-
-.article-content a {
-  border-bottom: 1px dotted red;
-  text-decoration: none;
-}
-
-.article-content a:hover {
-  color: red;
-  border-bottom: 1px dotted red;
 }
 
 .article-footer {

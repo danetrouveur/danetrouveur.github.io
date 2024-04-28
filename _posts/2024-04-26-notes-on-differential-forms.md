@@ -9,14 +9,16 @@ Differential forms, equations and their relationships are pivotal in the constru
 
 These notes were for learning the basics of **differential forms**!
 
-<iframe src="https://drive.google.com/file/d/1jusqdIjoVnIS0_3TrR0w2SsJUkX6RTmN/view?usp=drive_link" style="width:100%; height:700px;" frameborder="0"></iframe>
+<embed src="https://drive.google.com/file/d/1jusqdIjoVnIS0_3TrR0w2SsJUkX6RTmN/view?usp=drive_link" width="100%" height="700px" 
+ type="application/pdf">
 
-Download it <a href="/Mathematics__Differential_Forms.pdf">**here**</a>!
+Download it [**here**](/Mathematics__Differential_Forms.pdf)!
 
 These notes were for the midterms of **electromagnetism 1** (PHY2009-01)! 
 
-<iframe src="https://drive.google.com/file/d/1kgo-0bY71gVfCH4aZAid5NJIP8PCQX8m/view?usp=drive_link" style="width:100%; height:700px;" frameborder="0"></iframe>
+<embed src="https://drive.google.com/file/d/1kgo-0bY71gVfCH4aZAid5NJIP8PCQX8m/view?usp=drive_link" width="100%" height="700px" 
+ type="application/pdf">
 
-Download it <a href="/Physics__Differential_Equations_in_Electromagnetism.pdf">**here**</a>!
+Download it [**here**]("/Physics__Differential_Equations_in_Electromagnetism.pdf)!
 
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
