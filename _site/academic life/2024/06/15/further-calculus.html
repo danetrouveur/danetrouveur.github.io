@@ -10,8 +10,8 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <title>Welcome to my Website!</title>
-  <meta name="description" content="Hi friends and family! This is the first article in my website. I’m still working on the whole thing, so please don’t expect alot for the first few months. W...">
+  <title>The Mean Value Theorem (The Proof of the Fundamental Theorem of Calculus and Taylor's Theorem) (Draft)</title>
+  <meta name="description" content="Out of all mathematics that I’ve studied, I would say the most interesting subject that I find is without a doubt, analysis. I find my fancy quite inevitable...">
 
   <!-- evil icon -->
 
@@ -22,7 +22,7 @@
   <!-- todo: include this into main.css -->
 
   <link rel="stylesheet" href="/css/main.css">
-  <link rel="canonical" href="http://localhost:4000/personal%20life/2024/04/10/welcome-to-my-website.html">
+  <link rel="canonical" href="http://localhost:4000/academic%20life/2024/06/15/further-calculus.html">
   <link rel="alternate" type="application/rss+xml" title="Dane Jeon" href="http://localhost:4000/feed.xml">
 </head>
 
@@ -69,20 +69,26 @@
             <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
 
   <header class="artilce_header">
-    <h1 class="artilce_title" itemprop="name headline">Welcome to my Website!</h1>
-    <p class="artilce_meta"><time datetime="2024-04-10T00:00:00+09:00" itemprop="datePublished">Apr 10, 2024</time></p>
+    <h1 class="artilce_title" itemprop="name headline">The Mean Value Theorem (The Proof of the Fundamental Theorem of Calculus and Taylor's Theorem) (Draft)</h1>
+    <p class="artilce_meta"><time datetime="2024-06-15T00:00:00+09:00" itemprop="datePublished">Jun 15, 2024</time></p>
   </header>
 
   <div class="article-content" itemprop="articleBody">
-    <p>Hi friends and family! This is the first article in my website. I’m still working on the whole thing, so please don’t expect alot for the first few months. While the whole thing is working out, you should really check out my <a href="/about.md"><strong>about</strong></a> page. It has a short description of who I am.</p>
+    <p>Out of all mathematics that I’ve studied, I would say the most interesting subject that I find is without a doubt, <strong>analysis</strong>. I find my fancy quite inevitable: the history of analysis can be seen as the history of physics itself, from Newton’s description of all of motion through differential equations to Einstein’s formulations of gravity via differential geometry. Despite a person who understands only parts of it, I find the ideas irresistable to the say the least. I could shed tears just by thinking of the beauty!</p>
 
-<p>I’m also planning to write a lot of academic posts, for archiving and etcetera. My most recent interest lies in a topic called <strong>differential forms</strong>. I mean, what’s life without a daily dose of new maths? So here’s a cool equation for y’all.</p>
+<p>Today, rather than focusing on the physics, however, I would like to introduce you to another part about the field of analysis that I love: it’s <strong>thoroughness</strong>. By looking into the fundamental tools that humanity has devised to tackle and triumph in proving the intuitive, one cannot but be amazed. Personally, I am quite the geometric guy; I like to visualise and “see” what I’m dealing with. In this sense, I would like to introduce you to one of my favourite tools that has undeniable power that prevails throughout calculus: the mean value theorem.</p>
 
-<p style="text-align:center;font-size:150%;">
-$$\int_{M}d\omega=\int_{\partial M}\omega$$
+<p>Imagine a single curve, described by a functions \(f: \mathbb{R} \to \mathbb{R}\) and \(g: \mathbb{R} \to \mathbb{R}\) of a single parameter \(t\).</p>
+
+<p><img src="/assets/img/Cauchy's_Mean_Value_Theorem.jpg" alt="Cauchy's_Mean_Value_Theorem.jpg" /></p>
+
+<p>It is quite easy to imagine how there would always be a point \(t\) on the curve whose gradient would be parallel to the line that connects the two endpoints. This is the basis of what we call Cauchy’s mean value theorem (or the generalised mean value theorem).</p>
+
+<p style="text-align:center;font-size:110%;">
+$$\frac{f'(c)}{g'(c)}=\frac{f(b)-f(a)}{g(b)-g(a)}$$
 </p>
 
-<p>Just so you know, it’s called the <strong>generalised Stokes’ theorem</strong>. One of my favorites at the moment!</p>
+<p>(aforementioned, there exists a point whose infinitesial slope equals the slope of line that connects the two endpoints)</p>
 
   </div>
 

@@ -6,9 +6,61 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 01 May 2024 17:22:29 +0900</pubDate>
-    <lastBuildDate>Wed, 01 May 2024 17:22:29 +0900</lastBuildDate>
+    <pubDate>Sat, 15 Jun 2024 19:33:52 +0900</pubDate>
+    <lastBuildDate>Sat, 15 Jun 2024 19:33:52 +0900</lastBuildDate>
     <generator>Jekyll v4.3.3</generator>
+    
+      <item>
+        <title>The Mean Value Theorem (The Proof of the Fundamental Theorem of Calculus and Taylor&apos;s Theorem) (Draft)</title>
+        <description>&lt;p&gt;Out of all mathematics that I’ve studied, I would say the most interesting subject that I find is without a doubt, &lt;strong&gt;analysis&lt;/strong&gt;. I find my fancy quite inevitable: the history of analysis can be seen as the history of physics itself, from Newton’s description of all of motion through differential equations to Einstein’s formulations of gravity via differential geometry. Despite a person who understands only parts of it, I find the ideas irresistable to the say the least. I could shed tears just by thinking of the beauty!&lt;/p&gt;
+
+&lt;p&gt;Today, rather than focusing on the physics, however, I would like to introduce you to another part about the field of analysis that I love: it’s &lt;strong&gt;thoroughness&lt;/strong&gt;. By looking into the fundamental tools that humanity has devised to tackle and triumph in proving the intuitive, one cannot but be amazed. Personally, I am quite the geometric guy; I like to visualise and “see” what I’m dealing with. In this sense, I would like to introduce you to one of my favourite tools that has undeniable power that prevails throughout calculus: the mean value theorem.&lt;/p&gt;
+
+&lt;p&gt;Imagine a single curve, described by a functions \(f: \mathbb{R} \to \mathbb{R}\) and \(g: \mathbb{R} \to \mathbb{R}\) of a single parameter \(t\).&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/Cauchy&apos;s_Mean_Value_Theorem.jpg&quot; alt=&quot;Cauchy&apos;s_Mean_Value_Theorem.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;It is quite easy to imagine how there would always be a point \(t\) on the curve whose gradient would be parallel to the line that connects the two endpoints. This is the basis of what we call Cauchy’s mean value theorem (or the generalised mean value theorem).&lt;/p&gt;
+
+&lt;p style=&quot;text-align:center;font-size:110%;&quot;&gt;
+$$\frac{f&apos;(c)}{g&apos;(c)}=\frac{f(b)-f(a)}{g(b)-g(a)}$$
+&lt;/p&gt;
+
+&lt;p&gt;(aforementioned, there exists a point whose infinitesial slope equals the slope of line that connects the two endpoints)&lt;/p&gt;
+</description>
+        <pubDate>Sat, 15 Jun 2024 00:00:00 +0900</pubDate>
+        <link>http://localhost:4000/academic%20life/2024/06/15/further-calculus.html</link>
+        <guid isPermaLink="true">http://localhost:4000/academic%20life/2024/06/15/further-calculus.html</guid>
+        
+        
+        <category>Academic Life</category>
+        
+      </item>
+    
+      <item>
+        <title>Astrophotography</title>
+        <description>&lt;p&gt;Here are some photos of the sky that I took in Yeoncheon-gun, Sintan-ri, Korea, April 2nd. I took them myself! The first pic has the Big Dipper in it ;) ✨&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/IMG_2996.jpeg&quot; alt=&quot;IMG_2996.jpeg&quot; /&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align:center&quot;&gt;
+&lt;i&gt;A photo of the Big Dipper along with a commet over some fences and a tree. Personally, the whole composition really reminds me of Yun Dong-ju and his poems.  &lt;/i&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/IMG_3012.jpeg&quot; alt=&quot;IMG_3012.jpeg&quot; /&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align:center&quot;&gt;
+&lt;i&gt;A photo of Milky Way galaxy behind some mountains. The texture of the mountains is what I really love about this one; they look so oriental for some reason!&lt;/i&gt;
+&lt;/p&gt;
+
+&lt;p&gt;A promising beginner of astrophotography I dare say!&lt;/p&gt;
+</description>
+        <pubDate>Sat, 15 Jun 2024 00:00:00 +0900</pubDate>
+        <link>http://localhost:4000/personal%20life/2024/06/15/astrophotography.html</link>
+        <guid isPermaLink="true">http://localhost:4000/personal%20life/2024/06/15/astrophotography.html</guid>
+        
+        
+        <category>Personal Life</category>
+        
+      </item>
     
       <item>
         <title>Differential Forms, Equations, and Electromagnetism</title>
@@ -32,14 +84,14 @@
 
 &lt;p&gt;Download it &lt;a href=&quot;/assets/resources/Physics__Differential_Equations_in_Electromagnetism.pdf&quot;&gt;&lt;strong&gt;here&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;I record here a few note I’d like to make. Throughout the journey, I was able to realise the importance of the field of &lt;strong&gt;real analysis&lt;/strong&gt; with it providing a vigorous foundation for integration in higher dimensions and on manifolds. Albeit that I’ve understood only a small portion of the whole, I was also able to sense that I wanted to further investigate what it meant to integrate over singularities like those provided by point charges. I suspect that it has to do with &lt;strong&gt;differential topology&lt;/strong&gt; and &lt;strong&gt;De Rham cohomology&lt;/strong&gt; in particular. &lt;strong&gt;Lie derivatives&lt;/strong&gt; also seemed to often pop-up everywhere, and I also see them worth further investigation.&lt;/p&gt;
+&lt;p&gt;I record here a few note I’d like to make. Throughout the journey, I was able to realise the importance of the field of &lt;strong&gt;real analysis&lt;/strong&gt; with it providing a vigorous foundation for integration in higher dimensions and on manifolds. Albeit that I’ve understood only a small portion of the whole, I was also able to sense that I wanted to further investigate what it meant to integrate over singularities like those provided by point charges.&lt;/p&gt;
 
-&lt;p&gt;I’d like to mention that upon studying electrostatics, I was again suprised by the power of abstraction and generalisation. There was a huge chunk of detail in veil when electrostatics was explained by Griffiths’ book on Electrodyanamics. Frankly, I found the book, along with the book by Jackson, extremely chaotic and baffling in its way of explaining things (I’d go a whole day talking about it). I’m certain that I would’ve found the whole subject impossible to tackle if not for the separate studying. In this sense, I want to take this opportunity to emphasize to others and my future self the following: &lt;em&gt;when things seem incomprehensible, the fault is often on the place you are looking at more than anything else&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;I’d like to mention that upon studying electrostatics, I was again suprised by the power of abstraction and generalisation. There was a huge chunk of detail in veil when electrostatics was explained by Griffiths’ book on Electrodyanamics. Frankly, I found the book, along with the book by Jackson, extremely chaotic and baffling in its way of explaining things (I’d go a whole day talking about it). I’m certain that I would’ve found the whole subject impossible to tackle if not for the separate studying. In this sense, I want to take this opportunity to emphasize to others and my future self the following: &lt;em&gt;when things seem incomprehensible, the fault is often on how, the way that you’re going about it, rather than how much you’re able to tackle the ideas&lt;/em&gt;.&lt;/p&gt;
 
 </description>
         <pubDate>Fri, 26 Apr 2024 00:00:00 +0900</pubDate>
-        <link>http://localhost:4000/academic%20life/2024/04/26/notes-on-differential-forms.html</link>
-        <guid isPermaLink="true">http://localhost:4000/academic%20life/2024/04/26/notes-on-differential-forms.html</guid>
+        <link>http://localhost:4000/academic%20life/2024/04/26/notes-on-differential-forms-copy-2.html</link>
+        <guid isPermaLink="true">http://localhost:4000/academic%20life/2024/04/26/notes-on-differential-forms-copy-2.html</guid>
         
         
         <category>Academic Life</category>
@@ -59,8 +111,8 @@ $$\int_{M}d\omega=\int_{\partial M}\omega$$
 &lt;p&gt;Just so you know, it’s called the &lt;strong&gt;generalised Stokes’ theorem&lt;/strong&gt;. One of my favorites at the moment!&lt;/p&gt;
 </description>
         <pubDate>Wed, 10 Apr 2024 00:00:00 +0900</pubDate>
-        <link>http://localhost:4000/personal%20life/2024/04/10/welcome-to-my-website.html</link>
-        <guid isPermaLink="true">http://localhost:4000/personal%20life/2024/04/10/welcome-to-my-website.html</guid>
+        <link>http://localhost:4000/personal%20life/2024/04/10/welcome-to-my-website-copy.html</link>
+        <guid isPermaLink="true">http://localhost:4000/personal%20life/2024/04/10/welcome-to-my-website-copy.html</guid>
         
         
         <category>Personal Life</category>
