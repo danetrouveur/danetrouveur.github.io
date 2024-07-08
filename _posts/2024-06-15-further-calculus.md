@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Mean Value Theorem (The Proof of the Fundamental Theorem of Calculus and Taylor's Theorem) (Draft)
+title: The Mean Value Theorem
 category: Academic Life
 description: Out of all mathematics that I've studied, I would say the most interesting subject that I find is, without a doubt, analysis. In this article, I would like to introduce you to a glimpse of why I love it so immensely.
 ---
@@ -20,3 +20,5 @@ $$\frac{f'(c)}{g'(c)}=\frac{f(b)-f(a)}{g(b)-g(a)}$$
 </p>
 
 (aforementioned, there exists a point whose infinitesial slope equals the slope of line that connects the two endpoints)
+
+... to be finished later on ...

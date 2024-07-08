@@ -6,12 +6,12 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 15 Jun 2024 19:33:52 +0900</pubDate>
-    <lastBuildDate>Sat, 15 Jun 2024 19:33:52 +0900</lastBuildDate>
+    <pubDate>Mon, 08 Jul 2024 14:41:41 +0900</pubDate>
+    <lastBuildDate>Mon, 08 Jul 2024 14:41:41 +0900</lastBuildDate>
     <generator>Jekyll v4.3.3</generator>
     
       <item>
-        <title>The Mean Value Theorem (The Proof of the Fundamental Theorem of Calculus and Taylor&apos;s Theorem) (Draft)</title>
+        <title>The Mean Value Theorem</title>
         <description>&lt;p&gt;Out of all mathematics that I’ve studied, I would say the most interesting subject that I find is without a doubt, &lt;strong&gt;analysis&lt;/strong&gt;. I find my fancy quite inevitable: the history of analysis can be seen as the history of physics itself, from Newton’s description of all of motion through differential equations to Einstein’s formulations of gravity via differential geometry. Despite a person who understands only parts of it, I find the ideas irresistable to the say the least. I could shed tears just by thinking of the beauty!&lt;/p&gt;
 
 &lt;p&gt;Today, rather than focusing on the physics, however, I would like to introduce you to another part about the field of analysis that I love: it’s &lt;strong&gt;thoroughness&lt;/strong&gt;. By looking into the fundamental tools that humanity has devised to tackle and triumph in proving the intuitive, one cannot but be amazed. Personally, I am quite the geometric guy; I like to visualise and “see” what I’m dealing with. In this sense, I would like to introduce you to one of my favourite tools that has undeniable power that prevails throughout calculus: the mean value theorem.&lt;/p&gt;
@@ -27,6 +27,8 @@ $$\frac{f&apos;(c)}{g&apos;(c)}=\frac{f(b)-f(a)}{g(b)-g(a)}$$
 &lt;/p&gt;
 
 &lt;p&gt;(aforementioned, there exists a point whose infinitesial slope equals the slope of line that connects the two endpoints)&lt;/p&gt;
+
+&lt;p&gt;… to be finished later on …&lt;/p&gt;
 </description>
         <pubDate>Sat, 15 Jun 2024 00:00:00 +0900</pubDate>
         <link>http://localhost:4000/academic%20life/2024/06/15/further-calculus.html</link>
@@ -39,7 +41,7 @@ $$\frac{f&apos;(c)}{g&apos;(c)}=\frac{f(b)-f(a)}{g(b)-g(a)}$$
     
       <item>
         <title>Astrophotography</title>
-        <description>&lt;p&gt;Here are some photos of the sky that I took in Yeoncheon-gun, Sintan-ri, Korea, April 2nd. I took them myself! The first pic has the Big Dipper in it ;) ✨&lt;/p&gt;
+        <description>&lt;p&gt;Here are some photos of the sky that I took in Yeoncheon-gun, Sintan-ri, Korea, April 2nd. I took them myself! The first pic has the Big Dipper in it ;)&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/img/IMG_2996.jpeg&quot; alt=&quot;IMG_2996.jpeg&quot; /&gt;&lt;/p&gt;
 &lt;p style=&quot;text-align:center&quot;&gt;
