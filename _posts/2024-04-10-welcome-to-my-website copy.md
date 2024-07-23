@@ -2,7 +2,7 @@
 layout: post
 title: Welcome to my Website!
 category: Personal Life
-description: 
+description: Hi friends and family! This is the first article in my website. I'm still working on the whole thing, so please don't expect alot for the first few months.
 ---
 
 Hi friends and family! This is the first article in my website. I'm still working on the whole thing, so please don't expect alot for the first few months. While the whole thing is working out, you should really check out my <a href="/about.md">**about**</a> page. It has a short description of who I am.
