@@ -3,6 +3,25 @@
   <script type="text/javascript" id="MathJax-script" async
   src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
   </script>
+
+  <style>
+    /* Styling for the right-aligned translucent image */
+    body::before {
+      content: "";
+      position: fixed; /* Keeps the image in place while scrolling */
+      top: 0%;
+      right: -40%;
+      width: 110%; /* Adjust the width of the image */
+      height: 100%; /* Full height of the viewport */
+      background-image: url('blackhole.jpg'); /* Replace with your image path */
+      background-size: cover; /* Ensures the image covers its container */
+      background-position: center; /* Centers the image */
+      background-repeat: no-repeat; /* Prevents the image from tiling */
+      filter: grayscale(100%) opacity(5%); /* Grayscales and makes it translucent */
+      z-index: -1; /* Places the image behind the content */
+    }
+  </style>
+
 </head>
 <html>
   <head>
@@ -46,7 +65,6 @@
         </svg>
     </label>
     <input type="checkbox" id="menu-toggle">
-
     <div class="site-nav">
       <nav>
         <ul class="page-link">
@@ -102,7 +120,7 @@
 
 </article>
 
-              <p>&nbsp;</p> 
+              <!-- <p>&nbsp;</p>  -->
           </div>
         </div>
       </div>
@@ -111,8 +129,8 @@
     <div class="footer left column one-half">
       
       <section class="small-font">
-        <p> Life must be understood backwards, but it must be lived forwards </Life> </p>
-        <p><em> Sören Kierkegaard</em>, on <em>Journals and Papers</em>, 1843 </p>
+        <em><p>Life must be understood backwards, but it must be lived forwards</p></em>
+        <p><b> Sören Kierkegaard on Journals and Papers, 1843 <b></p>
       </section>
     </div>
 

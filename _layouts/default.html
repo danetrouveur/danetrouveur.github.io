@@ -3,6 +3,25 @@
   <script type="text/javascript" id="MathJax-script" async
   src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
   </script>
+
+  <style>
+    /* Styling for the right-aligned translucent image */
+    body::before {
+      content: "";
+      position: fixed; /* Keeps the image in place while scrolling */
+      top: 0%;
+      right: -40%;
+      width: 110%; /* Adjust the width of the image */
+      height: 100%; /* Full height of the viewport */
+      background-image: url('blackhole.jpg'); /* Replace with your image path */
+      background-size: cover; /* Ensures the image covers its container */
+      background-position: center; /* Centers the image */
+      background-repeat: no-repeat; /* Prevents the image from tiling */
+      filter: grayscale(100%) opacity(5%); /* Grayscales and makes it translucent */
+      z-index: -1; /* Places the image behind the content */
+    }
+  </style>
+
 </head>
 <html>
   {% include head.html %}
