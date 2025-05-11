@@ -53,4 +53,4 @@ and
 $$\frac{F(x)-F(a)}{G(x)-G(a)}=\frac{f(x)-\sum^n_{k=0}\frac{f^{k}(a)}{k!}(x-a)^k}{(x-a)^{k+1}}$$
 </p>
 
-where equating the two expressions result in the Taylor's theorem with the remainder that we stated above. 
+where equating the two expressions result in the Taylor's theorem with the remainder that we stated above!!
