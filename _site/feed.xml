@@ -6,17 +6,21 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 25 Nov 2024 14:47:28 +0900</pubDate>
-    <lastBuildDate>Mon, 25 Nov 2024 14:47:28 +0900</lastBuildDate>
+    <pubDate>Sun, 11 May 2025 20:50:30 +0900</pubDate>
+    <lastBuildDate>Sun, 11 May 2025 20:50:30 +0900</lastBuildDate>
     <generator>Jekyll v4.3.3</generator>
     
       <item>
-        <title>The Essence of Topology</title>
-        <description>&lt;p&gt;Topology, according to Wikipedia, is the branch of mathematics concerned wth the properties of a geometric object that are perserved under continuous deformations, such as stretching, twisting, crumping, and bending; that is, without closing holes, opening holes, tearing, gluing, or passing through itself. However, I personally find this definition misguiding in many ways.&lt;/p&gt;
+        <title>The Absurdity of Quantum Theory</title>
+        <description>&lt;p&gt;I am inherently a person who likes mathematics and physics all alike. To me, especially when one is talking about theory, I personally find them, not to a certain extent, but exactly the same thing. Consider the following: in manifold theory (a geometrical theory in its core) first layed out by Riemann, to motivate our use of point derivations as a basis for our tangent space, we construct an isomorphism between the vector space of point derivations and the vector space \(\boldsymbol{R}^n\). This kind of construction is of course a thing of abstract algebra, which stems from the study of polynomials by Galois. As such, in mathematics, we weave ideas that are seemly irrelevant to explain and describe the previously incomprehesible.&lt;/p&gt;
+
+&lt;p&gt;… To be continued&lt;/p&gt;
+
+\[|x\rangle=\begin{pmatrix}\psi(x_1)\\ \psi(x_2)\\ \vdots \\ \psi(x_i)\\ \vdots \end{pmatrix}=\psi(x_1)|x_1\rangle +\psi(x_2)|x_2\rangle +\ldots +\psi(x_i)|x_i\rangle +\ldots\quad x_i\in \boldsymbol{R}\]
 </description>
-        <pubDate>Mon, 25 Nov 2024 00:00:00 +0900</pubDate>
-        <link>http://localhost:4000/academic%20life/2024/11/25/topology.html</link>
-        <guid isPermaLink="true">http://localhost:4000/academic%20life/2024/11/25/topology.html</guid>
+        <pubDate>Sun, 11 May 2025 00:00:00 +0900</pubDate>
+        <link>http://localhost:4000/academic%20life/2025/05/11/quantum-mechanics.html</link>
+        <guid isPermaLink="true">http://localhost:4000/academic%20life/2025/05/11/quantum-mechanics.html</guid>
         
         
         <category>Academic Life</category>
@@ -73,7 +77,7 @@ $$\frac{F&apos;(c)}{G&apos;(c)}=\frac{-\sum^n_{k=0}\frac{f^{(k+1)}(a)}{k!}(c-a)^
 $$\frac{F(x)-F(a)}{G(x)-G(a)}=\frac{f(x)-\sum^n_{k=0}\frac{f^{k}(a)}{k!}(x-a)^k}{(x-a)^{k+1}}$$
 &lt;/p&gt;
 
-&lt;p&gt;where equating the two expressions result in the Taylor’s theorem with the remainder that we stated above.&lt;/p&gt;
+&lt;p&gt;where equating the two expressions result in the Taylor’s theorem with the remainder that we stated above!!&lt;/p&gt;
 </description>
         <pubDate>Sat, 15 Jun 2024 00:00:00 +0900</pubDate>
         <link>http://localhost:4000/academic%20life/2024/06/15/further-calculus.html</link>
