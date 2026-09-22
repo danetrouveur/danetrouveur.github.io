@@ -15,14 +15,14 @@ Hi! I'm an undergraduate student currently studying in **Korea** 🇰🇷 with e
 For a more detailed academic background and contact information, kindly refer to my resume!
 
 <iframe
-  src="{{ '/assets/pdf/Curriculum_Vitae.pdf' | relative_url }}"
-  title="Dane Jeon — Curriculum Vitae"
+  src="{{ '/assets/resources/Sejin_Jeon_Academic_CV.pdf' | relative_url }}"
+  title="Sejin Jeon — Academic CV"
   width="100%"
   height="900"
   style="border: 1px solid #ddd;">
   <p>
     Your browser cannot display PDFs.
-    <a href="{{ '/assets/pdf/Curriculum_Vitae.pdf' | relative_url }}">
+    <a href="{{ '/assets/resources/Sejin_Jeon_Academic_CV.pdf' | relative_url }}">
       Download my CV instead.
     </a>
   </p>
